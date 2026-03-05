@@ -4,7 +4,7 @@ import type { GameData } from '../lib/types'
 export default function Game({ game }: { game: GameData }) {
   const navigate = useNavigate()
   function play() {
-    const url = `/cdn/${game.id}/${game.file}`
+    const url = `coffee-cdn.page.gd/cdn/${game.id}/${game.file}`
 
     navigate(`/route/${btoa(url)}?hidecontrolbar=true`)
   }
