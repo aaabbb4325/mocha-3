@@ -51,8 +51,10 @@ export default function FAQ() {
         <div class="collapse-title text-xl font-medium">Credits</div>
         <div class="collapse-content">
           <p>ProudParrot2 - OG Mocha, Bog/Truffled - Games, Bread/Genizy - Games, MyntBlue - Maintence and Bug Fixes</p>
+          </div>
         </div>
       </div>
+     </div>
     </div>
   )
 }
