@@ -5,7 +5,7 @@ import { BareMuxConnection } from '@mercuryworkshop/bare-mux'
 import { setProxyStatus } from '../routes/route'
 
 
-export const wispUrl = 'wss://wisp.mercurywork.shop/'
+export const wispUrl = 'wss://incog.works/wisp/'
 
 export async function setupProxy() {
   if ('serviceWorker' in navigator) {
