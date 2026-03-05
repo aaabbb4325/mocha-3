@@ -41,16 +41,16 @@ export default function Home() {
       </div>
 
       <div class="absolute bottom-0 flex w-screen items-center justify-between p-4 px-6 text-sm">
-        &copy; 2025 proudparrot2
+        &copy; 2026 proudparrot2 + Myntlue     (THIS IS A UNOFFICIAL BUILD OF MOCHA PROUDPARROT2 MADE THE ORIGINAL IT JUST WENT DOWN LAST YEAR AND HASNT BEEN RERELEASED [If you want this taken down dm @myntblue on discord])
         <div class="flex gap-4">
           <div class="flex items-center gap-2">
             <GitCommitHorizontal />
-            <A class="link-hover link" target="_blank" href={`https://github.com/cafe-labs/mocha/commit/${__GIT_COMMIT__}/`}>
+            <A class="link-hover link" target="_blank" href={`https://github.com/aaabbb4325/mocha-3/commit/${__GIT_COMMIT__}/`}>
               {__GIT_COMMIT__.slice(0, 7)}
             </A>
           </div>
           <Dot class="-mx-3" />
-          <a class="link-hover link" href="https://github.com/cafe-labs/mocha" rel="noreferrer" target="_blank">
+          <a class="link-hover link" href="https://github.com/aaabbb4325/mocha" rel="noreferrer" target="_blank">
             GitHub
           </a>
           <button
