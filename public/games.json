@@ -12,7 +12,19 @@
     "image": "coffee-cdn.page.gd/meta/slope.png"
   },
   {
-    "name": "oneshot",
+    "name": "Minecraft 1.12.2",
+    "id": "minecraft",
+    "file": "12-2.html",
+    "image": "coffee-cdn.page.gd/meta/minecraft.png"
+  },
+  {
+    "name": "Minecraft 1.8.8",
+    "id": "minecraft",
+    "file": "1-8-8.html",
+    "image": "coffee-cdn.page.gd/meta/minecraft.png"
+  },
+  {
+    "name": "Oneshot [LEGACY]",
     "id": "oneshot",
     "file": "index.html",
     "image": "coffee-cdn.page.gd/meta/oneshot.png"
