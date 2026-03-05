@@ -3,11 +3,24 @@
     "name": "1",
     "id": "1",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/meta/apple-touch-icon.png"
+    "image": "coffee-cdn.page.gd/meta/1.png"
   },
   {
     "name": "Slope",
     "id": "slope",
     "file": "index.html",
     "image": "coffee-cdn.page.gd/meta/slope.png"
+  },
+  {
+    "name": "oneshot",
+    "id": "oneshot",
+    "file": "index.html",
+    "image": "coffee-cdn.page.gd/meta/oneshot.png"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "id": "fnf",
+    "file": "index.html",
+    "image": "coffee-cdn.page.gd/meta/fnf.png"
   }
+]
