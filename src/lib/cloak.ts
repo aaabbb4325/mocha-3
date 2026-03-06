@@ -7,10 +7,10 @@ export function handleTabCloak() {
   if (tabData.name) {
     document.title = tabData.name
   } else {
-    document.title = 'Dashboard'
+    document.title = 'MochaBetterVersion'
   }
 
   if (tabData.icon) {
-    ;(document.querySelector('link[rel~=icon]') as HTMLLinkElement).href = tabData.icon
+    ;(document.querySelector('link[rel~=icon]') as HTMLLinkElement).href = tabData.icon || 'https://m.media-amazon.com/images/I/71IHB9-yapL.png';
   }
 }
