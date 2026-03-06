@@ -9,18 +9,32 @@ export function handleAboutBlank() {
   }
 }
 
-export function openAbWindow(src: string, redirect = true) {
-  const tab = window.open('about:blank', '_blank')
-  if (!tab) return
-  const iframe = tab.document.createElement('iframe')
-  const stl = iframe.style
-  stl.border = stl.outline = 'none'
-  stl.width = '100vw'
-  stl.height = '100vh'
-  stl.position = 'fixed'
-  stl.left = stl.right = stl.top = stl.bottom = '0'
-  iframe.src = src
-  tab.document.body.appendChild(iframe)
+-export function openAbWindow(src: string, redirect = true) {
+  // Define the HTML content for the new tab
+  const html = `
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>Classes</title>
+        <style>
+          body { margin: 0; padding: 0; overflow: hidden; }
+          iframe { border: none; width: 100vw; height: 100vh; position: fixed; top: 0; left: 0; }
+        </style>
+      </head>
+      <body>
+        <iframe src="${src}"></iframe>
+      </body>
+    </html>
+  `;
 
-  if (redirect) window.location.replace('https://classroom.google.com/h')
+  // Create a Blob from the HTML string and generate a URL
+  const blob = new Blob([html], { type: 'text/html' });
+  const blobUrl = URL.createObjectURL(blob);
+
+  // Open the blob URL instead of about:blank
+  const tab = window.open(blobUrl, '_blank');
+
+  if (redirect) {
+    window.location.replace('https://classroom.google.com/h');
+  }
 }
