@@ -94,5 +94,11 @@
     "id": "buck",
     "file": "index.html",
     "image": "https://coffee-cdn.page.gd/meta/buck.png"
+  }.
+  {
+    "name": "Bad Time Simulator",
+    "id": "badtime",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/buck.png"
   }
 ]
