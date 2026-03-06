@@ -30,7 +30,7 @@ export default function Home() {
             }}
             value={query()}
             onInput={(e) => setQuery(e.target.value)}
-            placeholder="The goon bar"
+            placeholder="Search Bar"
             type="text"
             class="input join-item w-full bg-base-300"
           />
