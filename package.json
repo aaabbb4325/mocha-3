@@ -6,8 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "start": "tsx server.ts"
+    "preview": "pnpm run build && wrangler dev",
+    "start": "tsx server.ts",
+    "deploy": "pnpm run build && wrangler deploy"
   },
   "dependencies": {
     "@mercuryworkshop/bare-mux": "^2.1.7",
@@ -43,7 +44,8 @@
     "@types/node": "^20.14.7",
     "cross-env": "^7.0.3",
     "tsx": "^4.15.7",
-    "typescript": "^5.5.2"
+    "typescript": "^5.5.2",
+    "wrangler": "^4.71.0"
   },
   "packageManager": "pnpm@9.7.0"
 }
