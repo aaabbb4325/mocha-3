@@ -3,54 +3,54 @@
     "name": "1",
     "id": "1",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/1.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/1.png"
   },
   {
     "name": "Slope",
     "id": "slope",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/slope.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/slope.png"
   },
   {
     "name": "Minecraft 1.12.2",
     "id": "minecraft",
     "file": "12-2.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/minecraft.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/minecraft.png"
   },
   {
     "name": "Minecraft 1.8.8",
     "id": "minecraft",
     "file": "1-8-8.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/minecraft.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/minecraft.png"
   },
   {
     "name": "Oneshot [LEGACY]",
     "id": "oneshot",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/oneshot.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/oneshot.png"
   },
   {
     "name": "Friday Night Funkin",
     "id": "fnf",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/fnf.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/fnf.png"
   },
   {
     "name": "Five Nights at Epsteins",
     "id": "fnae",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/fnae.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/fnae.png"
   },
   {
     "name": "Drive Mad",
     "id": "drive",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/drive.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/drive.png"
   },
   {
     "name": "Clover Pit",
     "id": "clov",
     "file": "index.html",
-    "image": "coffee-cdn.page.gd/htdocs/meta/clov.png"
+    "image": "https://coffee-cdn.page.gd/htdocs/meta/clov.png"
   }
 ]
