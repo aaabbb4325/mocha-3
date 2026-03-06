@@ -24,6 +24,12 @@
     "image": "https://coffee-cdn.page.gd/meta/minecraft.png"
   },
   {
+    "name": "The Worlds Hardest Game",
+    "id": "twhg",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/twhg.png"
+  },
+  {
     "name": "Oneshot [LEGACY]",
     "id": "oneshot",
     "file": "index.html",
