@@ -45,6 +45,13 @@ export default function FAQ() {
           <p>This is a Unofficial build of Mocha which aims to restore Mochas functionality and Continue maintaining it, its called Mocha 3 Despite the fact that I can barely code and probably will add little to no features from the actual Mocha 3 [ProudParrot2 if you want this taken down DM @Myntblue or @eljahames on discord]</p>
         </div>
 
+      <div class="collapse collapse-arrow bg-base-200">
+        <input type="checkbox" name="faq" />
+        <div class="collapse-title text-xl font-medium">Cola kitty pics</div>
+        <div class="collapse-content">
+          <p>placeholder</p>
+        </div>
+
            
       <div class="collapse collapse-arrow bg-base-200">
         <input type="checkbox" name="faq" />
