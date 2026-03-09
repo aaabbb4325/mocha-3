@@ -57,7 +57,7 @@ export default function FAQ() {
         <input type="checkbox" name="faq" />
         <div class="collapse-title text-xl font-medium">Credits</div>
         <div class="collapse-content">
-          <p>ProudParrot2 - OG Mocha, Bog/Truffled - Games, Bread/Genizy - Games, MyntBlue - Maintenance and Bug Fixes, ELJahames - Maintenance and paid for the domain</p>
+          <p>ProudParrot2 - OG Mocha, Bog/Truffled - Games, Bread/Genizy - Games, MyntBlue - Maintenance and Bug Fixes, ELJahames - Maintenance and paid for the domain </p>
           </div>
         </div>
       </div>
