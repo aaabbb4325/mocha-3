@@ -18,7 +18,7 @@ export default function Settings() {
   const [tabIcon, setTabIcon] = createSignal('')
 
   const [panicKey, setPanicKey] = createSignal('')
-  const [panicUrl, setPanicUrl] = createSignal('https://wauwatosa.instructure.com/login/saml/h')
+  const [panicUrl, setPanicUrl] = createSignal('https://drive.google.com/drive')
 
   const [aboutBlank, setAboutBlank] = createSignal('disabled')
 
