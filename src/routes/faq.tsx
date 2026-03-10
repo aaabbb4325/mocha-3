@@ -51,9 +51,7 @@ export default function FAQ() {
         <input type="checkbox" name="faq" />
         <div class="collapse-title text-xl font-medium">Cola kitty pics</div>
         <div class="collapse-content">
-          <p>
-            <img src="mrow :3" alt="Cool pic" width="150" height="75">
-           </p>
+          <p>mrow :3></p>
         </div>
       </div> {/* Fixed: Added missing closure */}
 
