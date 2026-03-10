@@ -14,8 +14,8 @@ export const [exportSuccessful, setExportStatus] = createSignal(false)
 export const [importSuccessful, setImportStatus] = createSignal(false)
 
 export default function Settings() {
-  const [tabName, setTabName] = createSignal('')
-  const [tabIcon, setTabIcon] = createSignal('')
+  const [tabName, setTabName] = createSignal('ixl')
+  const [tabIcon, setTabIcon] = createSignal('/ixl.png')
 
   const [panicKey, setPanicKey] = createSignal('')
   const [panicUrl, setPanicUrl] = createSignal('https://drive.google.com/drive')
