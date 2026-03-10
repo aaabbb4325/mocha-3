@@ -7,7 +7,7 @@
   {
     "name": "AI",
     "url": "duck.ai",
-    "image": ""
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.prod.website-files.com%2F6889473510b50328dbb70ae6%2F68c469d23594abeb9ab6ee48_og-claude-generic.jpg&f=1&nofb=1&ipt=6fccde8d3b3c6b49f5cc7854785e22d124d3f60478e99c23e6ba970cec5b580b"
   },
   {
     "name": "TikTok",
@@ -30,12 +30,12 @@
     "image": "https://variety.com/wp-content/uploads/2019/09/twitch_logo.jpg"
   },
   {
-    "name": "Cineby(Movie Pirate)",
+    "name": "Cineby (Free Movies)",
     "url": "https://www.cineby.gd/",
     "image": "https://cineby.uno/img/banner.png"
   },
   {
-    "name": "Cool Math Games(very cool)",
+    "name": "Cool Math Games",
     "url": "https://coolmathgames.com",
     "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Cool_Math_Games_screenshot.png"
   },
