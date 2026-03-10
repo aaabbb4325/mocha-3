@@ -30,7 +30,7 @@ export default function Home() {
             }}
             value={query()}
             onInput={(e) => setQuery(e.target.value)}
-            placeholder="Search Bar"
+            placeholder="Browse the web unrestricted"
             type="text"
             class="input join-item w-full bg-base-300"
           />
@@ -72,7 +72,7 @@ export default function Home() {
       <dialog id="discordmodal" class="modal">
         <div class="modal-box">
           <h3 class="text-lg font-bold">Opening a link</h3>
-          <p class="py-4">Would you like to open our Discord server in a normal tab, or inside the proxy?</p>
+          <p class="py-4">Would you like to open our Discord server in a normal tab, or inside the proxy? (this is a link to the official mocha discord)</p>
           <div class="modal-action">
             <a
               class="btn btn-primary"
