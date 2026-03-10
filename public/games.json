@@ -72,6 +72,12 @@
     "image": "fnf.png"
   },
   {
+    "name": "Geometry Dash [LITE]",
+    "id": "gd",
+    "file": "index.html",
+    "image": "gd.png"
+  },
+  {
     "name": "Iron Lung",
     "id": "iron",
     "file": "index.html",
