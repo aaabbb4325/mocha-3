@@ -48,6 +48,12 @@
     "image": "crossy.png"
   },
   {
+    "name": "Geometry Dash [Recreation]",
+    "id": "dash",
+    "file": "index.html",
+    "image": "dash.png"
+  },
+  {
     "name": "Deltarune",
     "id": "rune",
     "file": "index.html",
