@@ -96,6 +96,12 @@
     "image": "minecraft.png"
   },
   {
+    "name": "Minecraft Pocket Edition",
+    "id": "minecraft",
+    "file": "mcpe.html",
+    "image": "minecraft.png"
+  },
+  {
     "name": "Oneshot [LEGACY]",
     "id": "oneshot",
     "file": "index.html",
